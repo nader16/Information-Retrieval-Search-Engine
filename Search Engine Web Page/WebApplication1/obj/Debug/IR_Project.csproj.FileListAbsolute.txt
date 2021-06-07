@@ -1,0 +1,155 @@
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\EntityFramework.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Owin.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\System.Web.Providers.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\WebGrease.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\EntityFramework.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\IR_Project.dll.config
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\IR_Project.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\bin\IR_Project.pdb
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\obj\Debug\IR_Project.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\obj\Debug\IR_Project.pdb
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\WebApplication1\WebApplication1\obj\Debug\IR_Project.csprojResolveAssemblyReference.cache
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\IR_Project.dll.config
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\IR_Project.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\IR_Project.pdb
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Antlr3.Runtime.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\EntityFramework.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.Owin.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.Owin.Security.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Owin.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\System.Web.Optimization.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\System.Web.Providers.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\WebGrease.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\System.Web.Optimization.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\EntityFramework.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.Owin.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.Owin.Security.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\obj\Debug\IR_Project.dll
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\obj\Debug\IR_Project.pdb
+D:\Fcis\Fourth Year\Second Term\IR\Project\Web Application\IR_Project\WebApplication1\obj\Debug\IR_Project.csprojResolveAssemblyReference.cache
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\obj\Debug\IR_Project.csprojAssemblyReference.cache
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\obj\Debug\IR_Project.csproj.CoreCompileInputs.cache
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\obj\Debug\IR_Project.dll
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\obj\Debug\IR_Project.pdb
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\IR_Project.dll.config
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\IR_Project.dll
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\IR_Project.pdb
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Antlr3.Runtime.dll
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\EntityFramework.dll
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\EntityFramework.SqlServer.dll
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.Owin.dll
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.Owin.Security.dll
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Newtonsoft.Json.dll
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Owin.dll
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\System.Web.Optimization.dll
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\System.Web.Providers.dll
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\WebGrease.dll
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\System.Web.Optimization.xml
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Antlr3.Runtime.pdb
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Newtonsoft.Json.xml
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\EntityFramework.xml
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\EntityFramework.SqlServer.xml
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.Owin.xml
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.Owin.Security.xml
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Term 2\Information Retrieval\Project\IR_Project\WebApplication1\obj\Debug\IR_Project.csproj.CopyComplete
